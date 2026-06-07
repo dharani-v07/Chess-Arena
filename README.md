@@ -19,7 +19,7 @@ Chess Arena is a full-featured chess application for Android, built with modern 
 
 <!-- Add your screenshots here -->
 <div align="center">
-  <img src="https://github.com/dharani-v07/Chess-Arena/tree/main/screenshots" alt="Gameplay & Main Screen" width="300">
+  <img src="[https://github.com/dharani-v07/Chess-Arena/tree/main/screenshots]" alt="Gameplay & Main Screen" width="300">
 </div>
 
 ## 🚀 Download
