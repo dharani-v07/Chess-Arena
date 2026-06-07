@@ -1,0 +1,6 @@
+{
+  "name": "Chess Arena",
+  "description": "Indulge in a premium, high-stakes chess experience. Play local matches vs AI or friends, earn rewards, and risk your gold in thrilling premium multiplayer arenas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
